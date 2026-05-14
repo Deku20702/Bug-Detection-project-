@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pymongo
+neo4j
+networkx
+python-jose[cryptography]
+passlib
+python-multipart
+httpx
+pytest
+razorpay
+email-validator>=2.0.0
+google-auth
+langgraph
+# ML model dependencies
+xgboost>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0

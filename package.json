@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-hot-toast": "^2.6.0",
+    "reactflow": "^11.11.4",
+    "recharts": "^3.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.344.0",
+    "axios": "^1.6.7"
+  }
+}
