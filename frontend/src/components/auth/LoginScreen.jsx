@@ -98,7 +98,7 @@ const LoginScreen = ({ onLoginSuccess }) => {
             <label>Email address</label>
             <input
               type="email"
-              placeholder="you@company.com"
+              placeholder="you@gmial.com"
               value={auth.email}
               onChange={e => setAuth({ ...auth, email: e.target.value })}
               onKeyDown={e => e.key === 'Enter' && handleAuthSubmit()}
@@ -123,7 +123,7 @@ const LoginScreen = ({ onLoginSuccess }) => {
                 background: 'none', border: 'none', cursor: 'pointer', fontSize: '15px', color: 'var(--text-tertiary)'
               }}
             >
-              {showPassword ? "👁" : "🙈"}
+              {showPassword ? "👁" : "̗̀(˶'ᵕ'˶) ̖́-" }
             </button>
           </div>
 
